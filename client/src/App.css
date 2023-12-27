@@ -1,0 +1,24 @@
+.navs{
+  font-size:20px;
+    margin-left:40px;
+    text-decoration:none;
+    color: inherit;
+}
+
+
+.btn{
+  background-color:#ffffff;
+  margin-left:55rem;
+  color:#0096ff;
+  text-decoration:none;
+  padding: 6px;
+  border-radius: 4px;
+}
+.btn1{
+  background-color:#ffffff;
+  margin-left:50px;
+  color:#0096ff;
+  text-decoration:none;
+  padding: 6px;
+  border-radius: 4px;
+}
